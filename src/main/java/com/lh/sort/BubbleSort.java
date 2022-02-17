@@ -9,7 +9,7 @@ public class BubbleSort {
     public static void main(String[] args) {
         int[] array = {3, 21, 45, 14, 53,2,4,56,4};
         System.out.println(sort(array));
-        System.out.println("");
+        System.out.println("" );
     }
 
     private static int[] sort(int[] array) {
